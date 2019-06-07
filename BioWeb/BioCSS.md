@@ -27,3 +27,21 @@ No HTML temos o DOM e no CSS o CSSOM, o CSSOM é uma arvore da folha de estilo q
  Metologia que usa como base algumas coisinhas de Biologia para organizar páginas levando em conta elementos presentes no DOM, listando assim membros da árvore famíliar. Como exemplo podemos okbservar as seguintes regras familiares para o desenvolvimento.
 
  ![componentes familia](familiaComponentes.jpg)
+
+ Na imamgem acima vemos componentes de nossa folha de estilo separados por famílias A, B e C se formos para colocar em prática essa imagem ficaria algo do tipo:
+
+ ```CSS
+ Familia A
+ header .container .row .col{
+     ...
+ } 
+ Familia B 
+ section .container .roe .col{
+    ....
+ }
+ Familia C
+ footer .container .row .col{
+
+ }
+``` 
+
