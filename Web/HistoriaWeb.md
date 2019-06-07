@@ -9,6 +9,13 @@
 
  No ano de 1989 Team Berners Lee desenvolveu o HTTP  protocolo de aplicação para sistemas de informação hipermídia distribuídos e colaborativos. O protocolo funciona como meio de canal de transferência de informações entre redes de computadores, e isso acontece por meio de requisições onde o navegador envia um pedido para acessar dados de uma determinada página. Essa requisição vem acontecer quando colocamos um determinado endereço de um site no campo de busca do navegador.
 
+## Surgimento do HTML
+ O HTML (Hypertext Markup Language) é uma linguagem marcação que tem como objetivo mostrar por meio de suas tags textos, arquivos de mídia. Seu surgimento veio acontecer no ano de 1991 pelo cientista Tim Berners Lee. Essa linguagem apesar de pertencer ao paradigma imperativo, ela não permiti efetuar operações e muito menos trabalhar com condições e laços de repetições. Exemplo de tags:
+
+```html
+<head></head>
+<body></body>
+```
 (Lang-Esp)
 
 ## La historia de la web
@@ -19,6 +26,14 @@
 
  En el año 1989 Team Berners Lee desarrolló el protocolo HTTP de aplicación para sistemas de información hipermedia distribuidos y colaborativos. El protocolo funciona como medio de canal de transferencia de información entre redes de ordenadores, y esto ocurre por medio de peticiones donde el navegador envía una solicitud para acceder a datos de una determinada página. Esta petición se producirá cuando colocamos una determinada dirección de un sitio en el campo de búsqueda del navegador.
 
+## Surgimiento del HTML
+ El HTML (Hypertext Markup Language) es un lenguaje de marcado que tiene como objetivo mostrar por medio de sus tags textos, archivos de medios. Su surgimiento vino a ocurrir en el año 1991 por el científico Tim Berners Lee. Este lenguaje, a pesar de pertenecer al paradigma imperativo, no permite efectuar operaciones y mucho menos trabajar con condiciones y lazos de repeticiones. Ejemplo de etiquetas:
+
+ ```html
+<head></head>
+<body></body>
+```
+
 (lang-En)
 
 ## The history of the web
@@ -28,3 +43,11 @@
 ## HTTP Birth
 
  In the year 1989 Team Berners Lee developed the HTTP application protocol for distributed and collaborative hypermedia information systems. The protocol acts as a channel for transferring information between computer networks, and this happens through requests where the browser sends a request to access data of a certain page. This request comes about when we put a certain address of a site in the browser's search field.
+
+## Appearance of HTML
+ Hypertext Markup Language (HTML) is a markup language that aims to display through its text tags, media files. Its emergence came in the year 1991 by scientist Tim Berners Lee. This language despite belonging to the imperative paradigm, it did not allow to perform operations, much less work with conditions and ties of repetition. Example of tags:
+
+```html
+<head></head>
+<body></body>
+```
