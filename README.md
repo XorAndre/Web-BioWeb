@@ -11,3 +11,6 @@ Nesse repositório você irá encontrar materiais sobre web e BioWeb todos estud
 <br>
 In this repository you will find materials on web and BioWeb all studies has the support of companies that aim the evolution of BioInformática in Brazil
 
+(Español)
+<br>
+En ese repositorio usted encontrará materiales sobre web y BioWeb todos los estudios tienen el apoyo de empresas que apuntan a la evolución de la BioInformática en Brasil.
