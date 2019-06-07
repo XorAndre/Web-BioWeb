@@ -16,8 +16,14 @@ html -> Elemento raiz da família pai de head e body
 
  Antes de mostrar a possível metodologia com Biologia, eu gostaria de afirmar que tudo é possível desde que você saiba harmonizar corretamente as coisas como é o exemplo da metodologia Atomic Design. A metodologia foi desenvolvida pelo Brad Frost, ela se baseia em química. Nessa metodologia o desenvolvedor usa átomos, moléculas, organismos, modelos e páginas para construir com facilidade diversos projetos.  
 
-### BIOCSS código organizado
+## BIOCSS código organizado
 
 No HTML temos o DOM e no CSS o CSSOM, o CSSOM é uma arvore da folha de estilo que lista todos os elementos da hierarquia do DOM, mas com proposito de customizar esses elementos. Para entender o DOM e CSSOM veja abaixo uma imagem que demonstra o funcionamento.
 
 ![dom e CSSOM](domcssom.png)
+
+### O que é a BIOCSS?
+
+ Metologia que usa como base algumas coisinhas de Biologia para organizar páginas levando em conta elementos presentes no DOM, listando assim membros da árvore famíliar. Como exemplo podemos okbservar as seguintes regras familiares para o desenvolvimento.
+
+ ![componentes familia](familiaComponentes.jpg)
