@@ -44,5 +44,30 @@ No HTML temos o DOM e no CSS o CSSOM, o CSSOM é uma arvore da folha de estilo q
      ...
  }
 ``` 
-Esse exemplo não é a metodologia aplicada, mas explicando a imagem acima dos grupos de família. O ponto da Metodologia, o BioCSS leva como base o modelo de reprodução de seres vivos até o fim da vida e processo de decomposição onde esse ser servirá como alimento para micro organismos.  
+Esse exemplo não é a metodologia aplicada, mas explicando a imagem acima dos grupos de família. O ponto da Metodologia, o BioCSS leva como base o modelo de reprodução de seres vivos até o fim da vida e processo de decomposição onde esse ser servirá como alimento para micro organismos.
+
+![ciclo-de-vida-humano](ciclo-de-vida.jpg)
+
+Levando como exemplo para executarmos a metologia, vemos acima a imagem do ciclo de vida do homem, temos em nossa aplicação as seguintes etapas até que ela conclua seu ciclo de vida: 
+
+### reprodução da folha estilo 
+Nessa etapa reunimos os componentes pai e mãe para dar poder dar origem ao filho.
+### Formação do bebê 
+Nessa período estilizaremos os membros de nossa folha de estilo como: header, äncoras, inputs e outras partes essenciais do corpo da folha
+### Nascimento
+Uma pré apresentação do CSS e seu comportamento com DOM (durante esse período a folha de estilo é sensível)
+### Crescimento da folha 
+Ao longo do crescimento da folha de estilo temos que escrever códigos saudáveis para que no futuro ela seja uma folha de estilo fácil de trabalhar
+### Adolescencia
+Período onde o CSS passa por várias mudanças no corpo e surgem várias dúvidas sobre o documento
+### Período adulto 
+Já em estágio final de desenvolvimento nossa folha agora está completa e já fazendo o que ela foi planejada.
+### Envelhecimento 
+No envelhecimento vamos notando que nossa folha de estilo vai caindo suas funções, isso devido os navegadores talvez já não oferecer um suporte a tal feature ou nossa folha já caminhar para a fase final de sua vida.
+### Morte e decomposição
+Infelizmente é hora de dar adeus a nossa folha de estilo. 
+
+ Essas etapas acima são baseadas no nosso ciclo de vida, se seguirmos esse modelo podemos construir aplicações saudáveis e que vão cumprir seu objetivo no ecossistema da aplicação.
+
+
 
