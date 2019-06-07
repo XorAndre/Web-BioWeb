@@ -47,5 +47,23 @@ select, textarea
     .bt-red
         background-color #F44336
         border-color #F44336
-
-
+/*Birth*/
+/* 
+At birth the baby needs a lot of care and attention. 
+Our style sheet when it comes to life deserves special 
+care because it is in this part that the developer 
+has to observe what will increase in the stylesheet. 
+We can give you an example when you are starting a card, 
+where we will feed the style only to the necessary ones like 
+stylings for the card's general body, titles, paragraphs, images and link
+*/        
+.card 
+    border-radius 5px
+    display flex
+    flex-direction column 
+    padding 1rem
+    .card-title, .card-body, .card-footer
+        margin 0 auto
+        width 98%
+    @media(min-width: 48rem)
+        flex-direction row
