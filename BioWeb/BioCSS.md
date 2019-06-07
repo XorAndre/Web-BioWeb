@@ -41,7 +41,8 @@ No HTML temos o DOM e no CSS o CSSOM, o CSSOM é uma arvore da folha de estilo q
  }
  Familia C
  footer .container .row .col{
-
+     ...
  }
 ``` 
+Esse exemplo não é a metodologia aplicada, mas explicando a imagem acima dos grupos de família. O ponto da Metodologia, o BioCSS leva como base o modelo de reprodução de seres vivos até o fim da vida e processo de decomposição onde esse ser servirá como alimento para micro organismos.  
 
