@@ -19,7 +19,7 @@
 
  En el año 1989 Team Berners Lee desarrolló el protocolo HTTP de aplicación para sistemas de información hipermedia distribuidos y colaborativos. El protocolo funciona como medio de canal de transferencia de información entre redes de ordenadores, y esto ocurre por medio de peticiones donde el navegador envía una solicitud para acceder a datos de una determinada página. Esta petición se producirá cuando colocamos una determinada dirección de un sitio en el campo de búsqueda del navegador.
 
-(lang-In)
+(lang-En)
 
 ## The history of the web
 

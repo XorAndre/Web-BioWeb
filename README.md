@@ -7,7 +7,7 @@
 <br>
 Nesse repositório você irá encontrar materiais sobre web e BioWeb todos estudos tem o apoio de empresas que visam a evolução da BioInformática no Brasil
 
-(Inglish)
+(English)
 <br>
 In this repository you will find materials on web and BioWeb all studies has the support of companies that aim the evolution of BioInformática in Brazil
 
