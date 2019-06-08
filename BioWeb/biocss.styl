@@ -58,12 +58,18 @@ where we will feed the style only to the necessary ones like
 stylings for the card's general body, titles, paragraphs, images and link
 */        
 .card 
+    background-color #fff
     border-radius 5px
+    box-shadow 1px 3px 6px rgba(0, 0, 0, 0.12)
     display flex
     flex-direction column 
     padding 1rem
     .card-title, .card-body, .card-footer
         margin 0 auto
         width 98%
+    .card-title h3
+        font-size 1.5rem    
+    .card-body p
+        font-size 1rem
     @media(min-width: 48rem)
         flex-direction row
